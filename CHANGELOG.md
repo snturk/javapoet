@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+JavaPoet 1.13.1 *(2023-01-27)*
+-----------------------------
+
+ * New: Add support for type-level comments for `JavaFile` by `addTypeComment()` method.
+
 JavaPoet 1.13.0 *(2020-06-18)*
 -----------------------------
 
